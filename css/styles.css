@@ -13,7 +13,7 @@ img {
 
 .yoga-header {
     display: inline;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Licorice', cursive;
 }
 
 li {
@@ -22,4 +22,12 @@ li {
 
 .yoga-p-text {
     font-family: 'Rubik', sans-serif;
+}
+
+.fixed-content {
+    padding: 0;
+    left:0;
+    right: 0;
+    top:0;
+    bottom:0;
 }
