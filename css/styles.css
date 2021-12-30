@@ -31,3 +31,20 @@ li {
     top:0;
     bottom:0;
 }
+
+p h2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.card {
+    margin: 20px;
+    padding: 20px;
+}
+
+.highlight-nav {
+    border-bottom: solid 1px #000;
+}
+
+.row-content {
+    padding: 10px;
+}
