@@ -13,7 +13,7 @@ img {
 
 .yoga-header {
     display: inline;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Licorice', cursive;
 }
 
 li {
@@ -22,4 +22,29 @@ li {
 
 .yoga-p-text {
     font-family: 'Rubik', sans-serif;
+}
+
+.fixed-content {
+    padding: 0;
+    left:0;
+    right: 0;
+    top:0;
+    bottom:0;
+}
+
+p h2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.card {
+    margin: 20px;
+    padding: 20px;
+}
+
+.highlight-nav {
+    border-bottom: solid 1px #000;
+}
+
+.row-content {
+    padding: 10px;
 }
